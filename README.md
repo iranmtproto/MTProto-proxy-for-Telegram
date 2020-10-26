@@ -9,7 +9,6 @@ MTProto Proxy پروکسی رایگان برای تلگرام
 
 Telegram: @Iran_mtproto
 
-http://T.me/iran_mtproto
-tg://resolve?domain=iran_mtproto
+http://T.me/iran_mtproto or tg://resolve?domain=iran_mtproto
 
 Site: http://iranmtproto.blog.ir
