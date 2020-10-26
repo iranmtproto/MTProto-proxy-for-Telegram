@@ -9,3 +9,5 @@ Free MTProto proxy for Telegram
 Telegram: @Iran_mtproto
 
 tg://resolve?domain=iran_mtproto
+
+Site: http://iranmtproto.blog.ir
