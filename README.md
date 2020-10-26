@@ -6,6 +6,6 @@ Free MTProto proxy for Telegram
 
 بروزرسانی: ساعتی
 
-Iran_mtproto@
+Telegram: @Iran_mtproto
 
 tg://resolve?domain=iran_mtproto
